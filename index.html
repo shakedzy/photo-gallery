@@ -1,0 +1,36 @@
+---
+layout: default
+title: Welcome
+no_menu_item: true
+permalink: /
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>
+I really like to photograph, but every time I do, I end asking myself the same question over and over - now what? What am I going to do with these photos now? I realized this is one of the things that's blocking me from picking up the camera more often and go shooting. Instagram forces me to crop the photos if I upload more than one each time, and I didn't like all these photographers social networks like 500px and YouPic. <br>
+Which how I ended up creating my own gallery, just for myself. I don't know if anyone's ever going to visit these pages and see these photos, but it doesn't matter too much. This is my gallery, and now photos have a home.
+</p><br>
+
+{% assign count = 0 %}
+{% assign align = "left" %}
+{% for gallery in site.data.galleries.overview %}
+{% if count == 0 %}<div class="row">{% endif %}
+  <div class="half-width gallery-preview {{ align }}" style="padding-bottom: 30px;">
+    <h1>{{ gallery.title }}</h1>
+    <a href="{{ site.url }}{{ site.baseurl }}/galleries/{{ gallery.directory }}.html">
+      <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+    </a>
+  </div>
+{% if count == 1 %}</div>{% endif %}
+{% assign count = count | plus: 1 %}
+{% assign align = "right" %}
+{% if count >= 2 %}
+{% assign align = "left" %}
+{% assign count = 0 %}
+{% endif %}
+{% endfor %}
+
+{% if count != 1 %}
+</div>
+{% endif %}
