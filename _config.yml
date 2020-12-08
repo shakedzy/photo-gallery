@@ -13,6 +13,7 @@ full_name: Shaked Zychlinski
 baseurl: "/photo-gallery" # the subpath of your site, e.g. /blog
 url: "https://shakedzy.xyz" # the base hostname & protocol for your site
 google_analytics: UA-141245946-1
+favicon: "/assets/site/favicon.png"
 include: ["_pages"]
 
 # Build settings

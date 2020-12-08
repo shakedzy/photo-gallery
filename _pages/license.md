@@ -11,3 +11,5 @@ Photos license:
 * All other photos licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This photos gallery is based on the awesome code by [opieters/jekyll-image-gallery-example](https://github.com/opieters/jekyll-image-gallery-example).
+
+Favicon by [Round Icons](https://roundicons.com).
