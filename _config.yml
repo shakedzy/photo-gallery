@@ -8,12 +8,20 @@
 # Site settings
 title: My Photo Gallery
 email: shakedzy@gmail.com
-description: A gallery of photos taken by me.
+description: A gallery of photos taken by me
 full_name: Shaked Zychlinski
 baseurl: "/photo-gallery" # the subpath of your site, e.g. /blog
 url: "https://shakedzy.xyz" # the base hostname & protocol for your site
 google_analytics: UA-141245946-1
 favicon: "/assets/site/favicon.png"
+twitter_username: "@shakedzy"
+
+social_banner: 
+  image: "/assets/site/social_banner.png"
+  type: "image/png"
+  height: 1000
+  width: 1500
+
 include: ["_pages"]
 
 # Build settings

@@ -12,4 +12,4 @@ Photos license:
 
 This photos gallery is based on the awesome code by [opieters/jekyll-image-gallery-example](https://github.com/opieters/jekyll-image-gallery-example).
 
-Favicon by [Round Icons](https://roundicons.com).
+Camera icon displayed as the favicon and in social-media banners by [Round Icons](https://roundicons.com).
