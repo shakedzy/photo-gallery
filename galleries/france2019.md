@@ -9,7 +9,7 @@ As mostly everyone knows, Keren's extended family is French, living in Paris and
 
 We ended up 5 people traveling on April 2019: Keren and I, her monther, brother and his girlfriend, and we've been to Deauville, Etretat, Honfleur, Mont Saint-Michel, Saint Malo, Dinard, Dinan, Saint Suliac, Le Repas, Omaha Beach, Bayeux and Paris, of course. While I was guaranteed cloudly weather and rain, which is that region's typical weather, the sky were clear most of the time - and especially when we got to Mont Saint-Michel, which allowed me to witness it in all its glory.
 
-This was my second trip with my Canon 77D. I also bought a polarizing filter for this one.
+This was my second trip with my Canon 77D. I also bought a polarizing filter for this one, which I experimented a lot with while shooting.
 
 {% include gallery-layout.html gallery=site.data.galleries.france2019 %}
 
