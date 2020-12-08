@@ -17,8 +17,8 @@ favicon: "/assets/site/favicon.png"
 twitter_username: "@shakedzy"
 
 social_banner: 
-  image: "/assets/site/social_banner.png"
-  type: "image/png"
+  image: "/assets/site/social_banner.jpg"
+  type: "image/jpeg"
   height: 1000
   width: 1500
 
