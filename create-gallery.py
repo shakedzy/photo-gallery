@@ -1,5 +1,6 @@
 import os
 import argparse
+from PIL import Image
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
@@ -8,6 +9,8 @@ if __name__ == "__main__":
 	parser.add_argument('-t', '--title', dest='title', help='Gallery title')
 	parser.add_argument('-z', '--zeroes', dest='zeroes', default=4, help='Number of total figures in files names')
 	parser.add_argument('-s', '--skip', dest='skip_all', default=False, action='store_true', help="Skip both overview and gallery")
+	parser.add_argument('-ts', '--thumbnail-size', dest='thumbnail_size', default='600,400', help="Width and height of thumbnails")
+	parser.add_argument('-nt', '--no-thumbs', dest='no_thumbnails', default=False, action='store_true', help="Don't create thumbnails (assume they already exist)")
 	parser.add_argument('-so', '--skip-overview', dest='skip_overview', default=False, action='store_true', help="Don't add gallery to overview.yml")
 	parser.add_argument('-sg', '--skip-gallery', dest='skip_gallery', default=False, action='store_true', help="Don't add gallery md file")
 	args = parser.parse_args()
@@ -25,12 +28,17 @@ if __name__ == "__main__":
 		elif original: s += SUFFIX
 		return s
 
+	if not args.no_thumbnails:
+		width, height = [int(i) for i in args.thumbnail_size.split(',')]
+		for photo in photos:
+			thumbnail_size = (width, width) if width > height else (height, height)
+			thumbnail_filename = f'{photo[:-len(SUFFIX)]}-thumbnail{SUFFIX}'
+			im = Image.open(os.path.join(photos_path, photo))
+			im.thumbnail(thumbnail_size, Image.ANTIALIAS)
+			im.save(os.path.join(photos_path, thumbnail_filename))
+
 	with open(os.getcwd() + f'/_data/galleries/{args.gallery_name}.yml', 'w+') as f:
 		f.write(f'picture_path: {args.gallery_name} \n')
-		# f.write('preview: \n')
-		# f.write(f'  filename: {get_image_name(args.preview)} \n')
-		# f.write(f'  original: {get_image_name(args.preview, original=True)} \n')
-		# f.write(f'  thumbnail: {get_image_name(args.preview, thumbnail=True)} \n')
 		f.write('pictures: \n')
 		for i in range(1, num_of_photos+1):
 			f.write(f'- filename: {get_image_name(i)} \n')
