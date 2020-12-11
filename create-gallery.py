@@ -7,7 +7,9 @@ if __name__ == "__main__":
 	parser.add_argument('-p', '--preview', dest='preview', required=True, help='Image number of preview photo')
 	parser.add_argument('-t', '--title', dest='title', help='Gallery title')
 	parser.add_argument('-z', '--zeroes', dest='zeroes', default=4, help='Number of total figures in files names')
-	parser.add_argument('-s', '--skip-overview', dest='skip_overview', default=False, action='store_true', help="Don't add gallery to overview.yml")
+	parser.add_argument('-s', '--skip', dest='skip_all', default=False, action='store_true', help="Skip both overview and gallery")
+	parser.add_argument('-so', '--skip-overview', dest='skip_overview', default=False, action='store_true', help="Don't add gallery to overview.yml")
+	parser.add_argument('-sg', '--skip-gallery', dest='skip_gallery', default=False, action='store_true', help="Don't add gallery md file")
 	args = parser.parse_args()
 
 	SUFFIX = '.JPG'
@@ -25,17 +27,17 @@ if __name__ == "__main__":
 
 	with open(os.getcwd() + f'/_data/galleries/{args.gallery_name}.yml', 'w+') as f:
 		f.write(f'picture_path: {args.gallery_name} \n')
-		f.write('preview: \n')
-		f.write(f'  filename: {get_image_name(args.preview)} \n')
-		f.write(f'  original: {get_image_name(args.preview, original=True)} \n')
-		f.write(f'  thumbnail: {get_image_name(args.preview, thumbnail=True)} \n')
+		# f.write('preview: \n')
+		# f.write(f'  filename: {get_image_name(args.preview)} \n')
+		# f.write(f'  original: {get_image_name(args.preview, original=True)} \n')
+		# f.write(f'  thumbnail: {get_image_name(args.preview, thumbnail=True)} \n')
 		f.write('pictures: \n')
 		for i in range(1, num_of_photos+1):
 			f.write(f'- filename: {get_image_name(i)} \n')
 			f.write(f'  original: {get_image_name(i, original=True)} \n')
 			f.write(f'  thumbnail: {get_image_name(i, thumbnail=True)} \n')
 
-	if not args.skip_overview:
+	if not (args.skip_all or args.skip_overview):
 		with open(os.getcwd() + '/_data/galleries/overview.yml', 'r+') as f:
 			content = f.read()
 			f.seek(0, 0)
@@ -47,3 +49,13 @@ if __name__ == "__main__":
 			f.write(f'  original: {get_image_name(args.preview, original=True)} \n')
 			f.write(f'  thumbnail: {get_image_name(args.preview, thumbnail=True)} \n')
 			f.write(content)
+
+	if not (args.skip_all or args.skip_gallery):
+		with open(os.getcwd() + f'/galleries/{args.gallery_name}.md', 'w+') as f:
+			f.write('--- \n')
+			f.write('layout: gallery \n')
+			f.write(f'title: {args.title} \n')
+			f.write('no_menu_item: true \n') 
+			f.write('support: [jquery, gallery] \n')
+			f.write('--- \n\n\n')
+			f.write('{% include gallery-layout.html gallery=site.data.galleries.' + args.gallery_name + ' %} \n')
