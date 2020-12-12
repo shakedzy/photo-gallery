@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Macro in Kfar Shmuel
+date: 24/11/20
 no_menu_item: true 
 support: [jquery, gallery]
 ---

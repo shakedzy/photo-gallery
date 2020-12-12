@@ -1,6 +1,7 @@
 ---
 layout: gallery
-title: France 2019, Normandie et Bretagne
+title: Normandie et Bretagne
+date: April 2019
 no_menu_item: true 
 support: [jquery, gallery]
 ---

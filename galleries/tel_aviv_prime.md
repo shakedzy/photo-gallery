@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Tel Aviv Through a Prime Lens
+date: 07/12/20
 no_menu_item: true 
 support: [jquery, gallery]
 ---

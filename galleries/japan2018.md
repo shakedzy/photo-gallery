@@ -1,6 +1,7 @@
 ---
 layout: gallery
-title: Japan 2018
+title: A Trip to Japan
+date: September-October 2018
 no_menu_item: true 
 support: [jquery, gallery]
 ---
