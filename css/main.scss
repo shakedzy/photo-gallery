@@ -53,6 +53,7 @@ $on-laptop:        800px;
 ;
 
 .overview-gallery-title {
+    color: #111;
     width: 100%; 
     font-weight: 300;
     margin-bottom: 0;
@@ -74,6 +75,11 @@ $on-laptop:        800px;
     margin-bottom: 0;
 }
 
+.date-title {
+    font-weight: 300; 
+    color: $grey-color
+}
+
 a.back-to-top {
     color: $grey-color; 
     border: 1px solid $grey-color; 
@@ -82,9 +88,8 @@ a.back-to-top {
     font-weight: 300;
 }
 
-.date-title {
-    font-weight: 300; 
-    color: $grey-color
+a.no-deco:hover {
+    text-decoration: none;
 }
 
 .row {

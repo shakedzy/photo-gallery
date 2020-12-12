@@ -17,9 +17,9 @@ Which how I ended up creating my own gallery, just for myself. I don't know if a
 {% for gallery in site.data.galleries.overview %}
 {% if count == 0 %}<div class="row">{% endif %}
   <div class="half-width gallery-preview {{ align }}" style="padding-bottom: 40px;">
+  	<a class= "no-deco" href="{{ site.url }}{{ site.baseurl }}/galleries/{{ gallery.directory }}.html">
     <h1 class="overview-gallery-title">{{ gallery.title }}</h1>
     <h3 class="overview-date-title">&nbsp;↳&nbsp;{{ gallery.date }}</h3> 
-    <a href="{{ site.url }}{{ site.baseurl }}/galleries/{{ gallery.directory }}.html">
       <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" style="border-radius: 25px;" />
     </a>
   </div>
