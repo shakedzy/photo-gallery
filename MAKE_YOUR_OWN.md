@@ -24,13 +24,15 @@ Create a new directory under `assets/photography/`, and export all gallery's pho
 
 now run the `create-gallery.py` script found in repository's root. It required Python 3.x and a few requirements (`pip3 install argparse Pillow`). Run the script with the following arguments:
 ```
-python3 create-gallery.py -n [gallery_name] -t [gallery_title] -d [gallery_date] -p [preview_image_id]
+python3 create-gallery.py -n [gallery_name]
 ```
 
-* `gallery_name` is the name of the directory where you exported the images to
-* `gallery_title` is the title you give to the gallery
-* `gallery_date` is the shooting date
-* `preview_image_id` is the ID-number of the image which will be displayed in the main page
+where `gallery_name` is the name of the directory to which you exported the images.
+
+More useful options:
+* `-t [gallery_title]`: a custom title for the gallery. Default is `[gallery_name]`
+* `-d [gallery_date]`: shooting dates. If not specified, will be used from EXIF metadata (if available)
+* `-p [preview_image_id]`: ID-number of the image which will be displayed in the main page. If not specified, image no. 1 will be used. 
 
 You'll might also need to use:
 * `-x [suffix]`: change image suffix (default: `JPG`)
