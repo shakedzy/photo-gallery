@@ -22,9 +22,8 @@ social_banner:
   height: 1000
   width: 1500
 
-include: ["_pages"]
-
 # Build settings
+include: ["_pages"]
 markdown: kramdown
 
 defaults:
@@ -34,4 +33,4 @@ defaults:
     values:
       permalink: /:path/:basename:output_ext
 
-exclude: [LICENSE, LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
+exclude: [LICENSE, LICENSE-CODE.md, LICENSE-IMAGES, README.md, MAKE_YOUR_OWN.md, bower.json]
