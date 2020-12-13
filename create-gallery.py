@@ -79,7 +79,7 @@ if __name__ == "__main__":
 		elif min_date.month == max_date.month and min_date.year == max_date.year:
 			date = f"{min_date.strftime('%d')}-{max_date.strftime('%d/%m/%Y')}"
 		else:
-			date = f"{min_date.strftime('%d/%m/%Y')}-{max_date.strftime('%d/%m/%Y')}"
+			date = f"{min_date.strftime('%d/%m/%Y')} - {max_date.strftime('%d/%m/%Y')}"
 	date = date or 'Who knows when...'
 
 	if not args.skip_overview:
