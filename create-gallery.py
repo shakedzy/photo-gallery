@@ -6,7 +6,7 @@ from datetime import datetime
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-n', '--name', dest='gallery_name', required=True, help='Gallery directory name')
-	parser.add_argument('-p', '--preview', dest='preview', required=True, help='Image number of preview photo')
+	parser.add_argument('-p', '--preview', dest='preview', default=1, help='Image number of preview photo')
 	parser.add_argument('-t', '--title', dest='title', help='Gallery title')
 	parser.add_argument('-d', '--date', dest='date', help='Gallery shooting date')
 	parser.add_argument('-z', '--zfill', dest='zfill', default=4, help='Number of total figures in files names')
