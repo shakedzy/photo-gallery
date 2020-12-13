@@ -1,51 +1,167 @@
 picture_path: jaffa_bw 
-preview: 
-  filename: jaffa-0008 
-  original: jaffa-0008.JPG 
-  thumbnail: jaffa-0008-thumbnail.JPG 
 pictures: 
 - filename: jaffa-0001 
   original: jaffa-0001.JPG 
   thumbnail: jaffa-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/250 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:06:30 18:53:42 
 - filename: jaffa-0002 
   original: jaffa-0002.JPG 
   thumbnail: jaffa-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/30 
+    focal: 35 
+    iso: 6400 
+    datetime: 2019:06:30 18:59:58 
 - filename: jaffa-0003 
   original: jaffa-0003.JPG 
   thumbnail: jaffa-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/40 
+    focal: 18 
+    iso: 4000 
+    datetime: 2019:06:30 19:02:21 
 - filename: jaffa-0004 
   original: jaffa-0004.JPG 
   thumbnail: jaffa-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 19 
+    iso: 400 
+    datetime: 2019:06:30 19:04:19 
 - filename: jaffa-0005 
   original: jaffa-0005.JPG 
   thumbnail: jaffa-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/40 
+    focal: 29 
+    iso: 400 
+    datetime: 2019:06:30 19:19:39 
 - filename: jaffa-0006 
   original: jaffa-0006.JPG 
   thumbnail: jaffa-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/40 
+    focal: 20 
+    iso: 100 
+    datetime: 2019:06:30 19:26:13 
 - filename: jaffa-0007 
   original: jaffa-0007.JPG 
   thumbnail: jaffa-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/60 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:06:30 19:28:49 
 - filename: jaffa-0008 
   original: jaffa-0008.JPG 
   thumbnail: jaffa-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/40 
+    focal: 24 
+    iso: 320 
+    datetime: 2019:06:30 19:38:47 
 - filename: jaffa-0009 
   original: jaffa-0009.JPG 
   thumbnail: jaffa-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/60 
+    focal: 50 
+    iso: 1600 
+    datetime: 2019:06:30 19:39:56 
 - filename: jaffa-0010 
   original: jaffa-0010.JPG 
   thumbnail: jaffa-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/125 
+    focal: 69 
+    iso: 2500 
+    datetime: 2019:06:30 19:40:24 
 - filename: jaffa-0011 
   original: jaffa-0011.JPG 
   thumbnail: jaffa-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/40 
+    focal: 27 
+    iso: 800 
+    datetime: 2019:06:30 19:43:59 
 - filename: jaffa-0012 
   original: jaffa-0012.JPG 
   thumbnail: jaffa-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/40 
+    focal: 18 
+    iso: 1600 
+    datetime: 2019:06:30 19:48:16 
 - filename: jaffa-0013 
   original: jaffa-0013.JPG 
   thumbnail: jaffa-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/30 
+    focal: 19 
+    iso: 3200 
+    datetime: 2019:06:30 19:50:57 
 - filename: jaffa-0014 
   original: jaffa-0014.JPG 
   thumbnail: jaffa-0014-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 20 
+    iso: 3200 
+    datetime: 2019:06:30 20:06:28 
 - filename: jaffa-0015 
   original: jaffa-0015.JPG 
   thumbnail: jaffa-0015-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/20 
+    focal: 24 
+    iso: 6400 
+    datetime: 2019:06:30 20:15:12 

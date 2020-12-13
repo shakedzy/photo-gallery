@@ -3,39 +3,143 @@ pictures:
 - filename: egp-0001 
   original: egp-0001.JPG 
   thumbnail: egp-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2020:11:28 13:47:06 
 - filename: egp-0002 
   original: egp-0002.JPG 
   thumbnail: egp-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2020:11:28 13:47:43 
 - filename: egp-0003 
   original: egp-0003.JPG 
   thumbnail: egp-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 27 
+    iso: 100 
+    datetime: 2020:11:28 13:48:10 
 - filename: egp-0004 
   original: egp-0004.JPG 
   thumbnail: egp-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 35 
+    iso: 100 
+    datetime: 2020:11:28 13:48:32 
 - filename: egp-0005 
   original: egp-0005.JPG 
   thumbnail: egp-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 22 
+    iso: 100 
+    datetime: 2020:11:28 13:48:44 
 - filename: egp-0006 
   original: egp-0006.JPG 
   thumbnail: egp-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2020:11:28 13:49:04 
 - filename: egp-0007 
   original: egp-0007.JPG 
   thumbnail: egp-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 78 
+    iso: 200 
+    datetime: 2020:11:28 13:52:26 
 - filename: egp-0008 
   original: egp-0008.JPG 
   thumbnail: egp-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 79 
+    iso: 160 
+    datetime: 2020:11:28 13:52:42 
 - filename: egp-0009 
   original: egp-0009.JPG 
   thumbnail: egp-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/250 
+    focal: 22 
+    iso: 100 
+    datetime: 2020:11:28 13:54:52 
 - filename: egp-0010 
   original: egp-0010.JPG 
   thumbnail: egp-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 35 
+    iso: 100 
+    datetime: 2020:11:28 13:56:58 
 - filename: egp-0011 
   original: egp-0011.JPG 
   thumbnail: egp-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/160 
+    focal: 35 
+    iso: 640 
+    datetime: 2020:11:28 14:04:54 
 - filename: egp-0012 
   original: egp-0012.JPG 
   thumbnail: egp-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/160 
+    focal: 35 
+    iso: 500 
+    datetime: 2020:11:28 14:06:29 
 - filename: egp-0013 
   original: egp-0013.JPG 
   thumbnail: egp-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/160 
+    focal: 35 
+    iso: 1600 
+    datetime: 2020:11:28 14:07:52 

@@ -1,30 +1,90 @@
 picture_path: kfar_shmuel_macro 
-preview: 
-  filename: kfar_shmuel-0008 
-  original: kfar_shmuel-0008.JPG 
-  thumbnail: kfar_shmuel-0008-thumbnail.JPG 
 pictures: 
 - filename: kfar_shmuel-0001 
   original: kfar_shmuel-0001.JPG 
   thumbnail: kfar_shmuel-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2020:11:24 12:56:38 
 - filename: kfar_shmuel-0002 
   original: kfar_shmuel-0002.JPG 
   thumbnail: kfar_shmuel-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/100 
+    focal: 71 
+    iso: 200 
+    datetime: 2020:11:24 13:05:08 
 - filename: kfar_shmuel-0003 
   original: kfar_shmuel-0003.JPG 
   thumbnail: kfar_shmuel-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/100 
+    focal: 71 
+    iso: 250 
+    datetime: 2020:11:24 13:07:32 
 - filename: kfar_shmuel-0004 
   original: kfar_shmuel-0004.JPG 
   thumbnail: kfar_shmuel-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/125 
+    focal: 71 
+    iso: 125 
+    datetime: 2020:11:24 13:08:49 
 - filename: kfar_shmuel-0005 
   original: kfar_shmuel-0005.JPG 
   thumbnail: kfar_shmuel-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 85 
+    iso: 500 
+    datetime: 2020:11:24 13:12:34 
 - filename: kfar_shmuel-0006 
   original: kfar_shmuel-0006.JPG 
   thumbnail: kfar_shmuel-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 85 
+    iso: 320 
+    datetime: 2020:11:24 13:15:47 
 - filename: kfar_shmuel-0007 
   original: kfar_shmuel-0007.JPG 
   thumbnail: kfar_shmuel-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 85 
+    iso: 400 
+    datetime: 2020:11:24 13:16:03 
 - filename: kfar_shmuel-0008 
   original: kfar_shmuel-0008.JPG 
   thumbnail: kfar_shmuel-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 85 
+    iso: 100 
+    datetime: 2020:11:24 13:17:16 

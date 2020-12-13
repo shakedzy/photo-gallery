@@ -1,36 +1,112 @@
 picture_path: ramon_coffee 
-preview: 
-  filename: ramon-0008 
-  original: ramon-0008.JPG 
-  thumbnail: ramon-0008-thumbnail.JPG 
 pictures: 
 - filename: ramon-0001 
   original: ramon-0001.JPG 
   thumbnail: ramon-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/400 
+    focal: 101 
+    iso: 100 
+    datetime: 2018:12:15 13:43:14 
 - filename: ramon-0002 
   original: ramon-0002.JPG 
   thumbnail: ramon-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/400 
+    focal: 104 
+    iso: 100 
+    datetime: 2018:12:15 13:43:42 
 - filename: ramon-0003 
   original: ramon-0003.JPG 
   thumbnail: ramon-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/250 
+    focal: 20 
+    iso: 100 
+    datetime: 2018:12:15 13:57:39 
 - filename: ramon-0004 
   original: ramon-0004.JPG 
   thumbnail: ramon-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/250 
+    focal: 59 
+    iso: 100 
+    datetime: 2018:12:15 13:58:19 
 - filename: ramon-0005 
   original: ramon-0005.JPG 
   thumbnail: ramon-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/250 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:12:15 14:06:17 
 - filename: ramon-0006 
   original: ramon-0006.JPG 
   thumbnail: ramon-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/250 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:12:15 14:24:20 
 - filename: ramon-0007 
   original: ramon-0007.JPG 
   thumbnail: ramon-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/200 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:12:15 14:24:32 
 - filename: ramon-0008 
   original: ramon-0008.JPG 
   thumbnail: ramon-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/320 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:12:15 14:24:53 
 - filename: ramon-0009 
   original: ramon-0009.JPG 
   thumbnail: ramon-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/160 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:12:15 14:47:52 
 - filename: ramon-0010 
   original: ramon-0010.JPG 
   thumbnail: ramon-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/250 
+    focal: 56 
+    iso: 100 
+    datetime: 2018:12:15 15:30:59 

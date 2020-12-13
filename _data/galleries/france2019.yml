@@ -1,279 +1,1003 @@
 picture_path: france2019 
-preview: 
-  filename: france-0039 
-  original: france-0039.JPG 
-  thumbnail: france-0039-thumbnail.JPG 
 pictures: 
 - filename: france-0001 
   original: france-0001.JPG 
   thumbnail: france-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:12 19:06:48 
 - filename: france-0002 
   original: france-0002.JPG 
   thumbnail: france-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:12 19:10:28 
 - filename: france-0003 
   original: france-0003.JPG 
   thumbnail: france-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:12 19:21:59 
 - filename: france-0004 
   original: france-0004.JPG 
   thumbnail: france-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 27 
+    iso: 250 
+    datetime: 2019:04:13 11:57:28 
 - filename: france-0005 
   original: france-0005.JPG 
   thumbnail: france-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:13 15:24:19 
 - filename: france-0006 
   original: france-0006.JPG 
   thumbnail: france-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:13 15:31:24 
 - filename: france-0007 
   original: france-0007.JPG 
   thumbnail: france-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 35 
+    iso: 100 
+    datetime: 2019:04:13 15:32:51 
 - filename: france-0008 
   original: france-0008.JPG 
   thumbnail: france-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/125 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:13 16:14:27 
 - filename: france-0009 
   original: france-0009.JPG 
   thumbnail: france-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 42 
+    iso: 100 
+    datetime: 2019:04:13 16:14:52 
 - filename: france-0010 
   original: france-0010.JPG 
   thumbnail: france-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/200 
+    focal: 42 
+    iso: 100 
+    datetime: 2019:04:13 17:23:21 
 - filename: france-0011 
   original: france-0011.JPG 
   thumbnail: france-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/160 
+    focal: 56 
+    iso: 100 
+    datetime: 2019:04:13 17:25:19 
 - filename: france-0012 
   original: france-0012.JPG 
   thumbnail: france-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 50 
+    iso: 100 
+    datetime: 2019:04:13 17:32:29 
 - filename: france-0013 
   original: france-0013.JPG 
   thumbnail: france-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:13 17:48:10 
 - filename: france-0014 
   original: france-0014.JPG 
   thumbnail: france-0014-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:13 18:08:41 
 - filename: france-0015 
   original: france-0015.JPG 
   thumbnail: france-0015-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:13 18:09:15 
 - filename: france-0016 
   original: france-0016.JPG 
   thumbnail: france-0016-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 27 
+    iso: 100 
+    datetime: 2019:04:13 18:10:39 
 - filename: france-0017 
   original: france-0017.JPG 
   thumbnail: france-0017-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:13 18:12:15 
 - filename: france-0018 
   original: france-0018.JPG 
   thumbnail: france-0018-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:13 18:14:45 
 - filename: france-0019 
   original: france-0019.JPG 
   thumbnail: france-0019-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 35 
+    iso: 1000 
+    datetime: 2019:04:13 21:40:05 
 - filename: france-0020 
   original: france-0020.JPG 
   thumbnail: france-0020-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 29 
+    iso: 1250 
+    datetime: 2019:04:13 21:40:42 
 - filename: france-0021 
   original: france-0021.JPG 
   thumbnail: france-0021-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:14 17:44:59 
 - filename: france-0022 
   original: france-0022.JPG 
   thumbnail: france-0022-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 56 
+    iso: 100 
+    datetime: 2019:04:14 18:22:33 
 - filename: france-0023 
   original: france-0023.JPG 
   thumbnail: france-0023-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/200 
+    focal: 115 
+    iso: 100 
+    datetime: 2019:04:14 18:23:50 
 - filename: france-0024 
   original: france-0024.JPG 
   thumbnail: france-0024-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/25 
+    focal: 50 
+    iso: 6400 
+    datetime: 2019:04:14 20:41:23 
 - filename: france-0025 
   original: france-0025.JPG 
   thumbnail: france-0025-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 2500 
+    datetime: 2019:04:14 20:43:38 
 - filename: france-0026 
   original: france-0026.JPG 
   thumbnail: france-0026-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 20 
+    iso: 4000 
+    datetime: 2019:04:14 20:44:22 
 - filename: france-0027 
   original: france-0027.JPG 
   thumbnail: france-0027-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/50 
+    focal: 35 
+    iso: 320 
+    datetime: 2019:04:14 21:37:54 
 - filename: france-0028 
   original: france-0028.JPG 
   thumbnail: france-0028-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/50 
+    focal: 35 
+    iso: 3200 
+    datetime: 2019:04:14 21:58:45 
 - filename: france-0029 
   original: france-0029.JPG 
   thumbnail: france-0029-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 29 
+    iso: 2000 
+    datetime: 2019:04:14 21:59:01 
 - filename: france-0030 
   original: france-0030.JPG 
   thumbnail: france-0030-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 2500 
+    datetime: 2019:04:14 22:08:19 
 - filename: france-0031 
   original: france-0031.JPG 
   thumbnail: france-0031-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 22 
+    iso: 4000 
+    datetime: 2019:04:14 22:09:12 
 - filename: france-0032 
   original: france-0032.JPG 
   thumbnail: france-0032-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 22 
+    iso: 2500 
+    datetime: 2019:04:14 22:10:25 
 - filename: france-0033 
   original: france-0033.JPG 
   thumbnail: france-0033-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 88 
+    iso: 100 
+    datetime: 2019:04:15 15:43:11 
 - filename: france-0034 
   original: france-0034.JPG 
   thumbnail: france-0034-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 81 
+    iso: 100 
+    datetime: 2019:04:15 15:46:56 
 - filename: france-0035 
   original: france-0035.JPG 
   thumbnail: france-0035-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 74 
+    iso: 100 
+    datetime: 2019:04:15 15:49:35 
 - filename: france-0036 
   original: france-0036.JPG 
   thumbnail: france-0036-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 125 
+    datetime: 2019:04:15 16:04:45 
 - filename: france-0037 
   original: france-0037.JPG 
   thumbnail: france-0037-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 79 
+    iso: 100 
+    datetime: 2019:04:15 16:08:05 
 - filename: france-0038 
   original: france-0038.JPG 
   thumbnail: france-0038-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 79 
+    iso: 100 
+    datetime: 2019:04:15 16:08:37 
 - filename: france-0039 
   original: france-0039.JPG 
   thumbnail: france-0039-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:15 17:00:56 
 - filename: france-0040 
   original: france-0040.JPG 
   thumbnail: france-0040-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:15 17:05:58 
 - filename: france-0041 
   original: france-0041.JPG 
   thumbnail: france-0041-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 20 
+    iso: 100 
+    datetime: 2019:04:15 18:10:03 
 - filename: france-0042 
   original: france-0042.JPG 
   thumbnail: france-0042-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 2500 
+    datetime: 2019:04:15 18:12:54 
 - filename: france-0043 
   original: france-0043.JPG 
   thumbnail: france-0043-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:15 18:16:13 
 - filename: france-0044 
   original: france-0044.JPG 
   thumbnail: france-0044-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:16 12:29:18 
 - filename: france-0045 
   original: france-0045.JPG 
   thumbnail: france-0045-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:16 12:52:43 
 - filename: france-0046 
   original: france-0046.JPG 
   thumbnail: france-0046-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/80 
+    focal: 35 
+    iso: 2500 
+    datetime: 2019:04:16 13:06:23 
 - filename: france-0047 
   original: france-0047.JPG 
   thumbnail: france-0047-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/250 
+    focal: 135 
+    iso: 500 
+    datetime: 2019:04:16 13:37:54 
 - filename: france-0048 
   original: france-0048.JPG 
   thumbnail: france-0048-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2019:04:16 13:42:30 
 - filename: france-0049 
   original: france-0049.JPG 
   thumbnail: france-0049-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:16 13:45:09 
 - filename: france-0050 
   original: france-0050.JPG 
   thumbnail: france-0050-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:16 13:45:42 
 - filename: france-0051 
   original: france-0051.JPG 
   thumbnail: france-0051-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 160 
+    datetime: 2019:04:16 20:21:46 
 - filename: france-0052 
   original: france-0052.JPG 
   thumbnail: france-0052-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/1000 
+    focal: 18 
+    iso: 6400 
+    datetime: 2019:04:16 20:54:06 
 - filename: france-0053 
   original: france-0053.JPG 
   thumbnail: france-0053-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/4000 
+    focal: 112 
+    iso: 5000 
+    datetime: 2019:04:16 21:12:30 
 - filename: france-0054 
   original: france-0054.JPG 
   thumbnail: france-0054-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:16 21:14:37 
 - filename: france-0055 
   original: france-0055.JPG 
   thumbnail: france-0055-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:16 21:15:22 
 - filename: france-0056 
   original: france-0056.JPG 
   thumbnail: france-0056-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:16 21:15:56 
 - filename: france-0057 
   original: france-0057.JPG 
   thumbnail: france-0057-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:16 21:17:12 
 - filename: france-0058 
   original: france-0058.JPG 
   thumbnail: france-0058-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 27 
+    iso: 500 
+    datetime: 2019:04:16 21:19:04 
 - filename: france-0059 
   original: france-0059.JPG 
   thumbnail: france-0059-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 85 
+    iso: 100 
+    datetime: 2019:04:17 12:37:37 
 - filename: france-0060 
   original: france-0060.JPG 
   thumbnail: france-0060-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/200 
+    focal: 85 
+    iso: 100 
+    datetime: 2019:04:17 12:51:57 
 - filename: france-0061 
   original: france-0061.JPG 
   thumbnail: france-0061-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 74 
+    iso: 100 
+    datetime: 2019:04:17 13:00:13 
 - filename: france-0062 
   original: france-0062.JPG 
   thumbnail: france-0062-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 100 
+    iso: 200 
+    datetime: 2019:04:17 13:31:05 
 - filename: france-0063 
   original: france-0063.JPG 
   thumbnail: france-0063-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/200 
+    focal: 85 
+    iso: 100 
+    datetime: 2019:04:17 14:58:35 
 - filename: france-0064 
   original: france-0064.JPG 
   thumbnail: france-0064-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 50 
+    iso: 100 
+    datetime: 2019:04:17 15:02:14 
 - filename: france-0065 
   original: france-0065.JPG 
   thumbnail: france-0065-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 62 
+    iso: 100 
+    datetime: 2019:04:17 15:05:49 
 - filename: france-0066 
   original: france-0066.JPG 
   thumbnail: france-0066-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 59 
+    iso: 100 
+    datetime: 2019:04:17 15:19:26 
 - filename: france-0067 
   original: france-0067.JPG 
   thumbnail: france-0067-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/160 
+    focal: 81 
+    iso: 100 
+    datetime: 2019:04:17 15:21:19 
 - filename: france-0068 
   original: france-0068.JPG 
   thumbnail: france-0068-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/200 
+    focal: 85 
+    iso: 100 
+    datetime: 2019:04:17 16:41:41 
 - filename: france-0069 
   original: france-0069.JPG 
   thumbnail: france-0069-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:17 16:48:22 
 - filename: france-0070 
   original: france-0070.JPG 
   thumbnail: france-0070-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:17 16:59:17 
 - filename: france-0071 
   original: france-0071.JPG 
   thumbnail: france-0071-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2019:04:17 17:01:16 
 - filename: france-0072 
   original: france-0072.JPG 
   thumbnail: france-0072-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 29 
+    iso: 100 
+    datetime: 2019:04:17 17:05:56 
 - filename: france-0073 
   original: france-0073.JPG 
   thumbnail: france-0073-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:17 17:06:28 
 - filename: france-0074 
   original: france-0074.JPG 
   thumbnail: france-0074-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 22 
+    iso: 100 
+    datetime: 2019:04:17 17:07:06 
 - filename: france-0075 
   original: france-0075.JPG 
   thumbnail: france-0075-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2019:04:17 17:12:25 
 - filename: france-0076 
   original: france-0076.JPG 
   thumbnail: france-0076-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 50 
+    iso: 100 
+    datetime: 2019:04:17 17:14:50 
 - filename: france-0077 
   original: france-0077.JPG 
   thumbnail: france-0077-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:17 17:52:30 
 - filename: france-0078 
   original: france-0078.JPG 
   thumbnail: france-0078-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 35 
+    iso: 100 
+    datetime: 2019:04:17 17:53:28 
 - filename: france-0079 
   original: france-0079.JPG 
   thumbnail: france-0079-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 19 
+    iso: 100 
+    datetime: 2019:04:17 18:50:46 
 - filename: france-0080 
   original: france-0080.JPG 
   thumbnail: france-0080-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/1000 
+    focal: 35 
+    iso: 6400 
+    datetime: 2019:04:17 19:12:26 
 - filename: france-0081 
   original: france-0081.JPG 
   thumbnail: france-0081-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:17 19:28:19 
 - filename: france-0082 
   original: france-0082.JPG 
   thumbnail: france-0082-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 35 
+    iso: 100 
+    datetime: 2019:04:18 16:50:50 
 - filename: france-0083 
   original: france-0083.JPG 
   thumbnail: france-0083-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2019:04:19 18:50:03 
 - filename: france-0084 
   original: france-0084.JPG 
   thumbnail: france-0084-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 42 
+    iso: 100 
+    datetime: 2019:04:21 18:53:45 
 - filename: france-0085 
   original: france-0085.JPG 
   thumbnail: france-0085-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 500 
+    datetime: 2019:04:21 21:30:04 
 - filename: france-0086 
   original: france-0086.JPG 
   thumbnail: france-0086-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 640 
+    datetime: 2019:04:21 21:35:19 
 - filename: france-0087 
   original: france-0087.JPG 
   thumbnail: france-0087-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 27 
+    iso: 4000 
+    datetime: 2019:04:21 21:39:31 
 - filename: france-0088 
   original: france-0088.JPG 
   thumbnail: france-0088-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 35 
+    iso: 6400 
+    datetime: 2019:04:21 21:42:26 
 - filename: france-0089 
   original: france-0089.JPG 
   thumbnail: france-0089-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 24 
+    iso: 1600 
+    datetime: 2019:04:21 22:02:57 
 - filename: france-0090 
   original: france-0090.JPG 
   thumbnail: france-0090-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 27 
+    iso: 2000 
+    datetime: 2019:04:21 22:12:13 
 - filename: france-0091 
   original: france-0091.JPG 
   thumbnail: france-0091-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 27 
+    iso: 6400 
+    datetime: 2019:04:21 22:21:35 

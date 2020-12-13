@@ -1,318 +1,1146 @@
 picture_path: japan2018 
-preview: 
-  filename: japan-0082 
-  original: japan-0082.JPG 
-  thumbnail: japan-0082-thumbnail.JPG 
 pictures: 
 - filename: japan-0001 
   original: japan-0001.JPG 
   thumbnail: japan-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/25 
+    focal: 18 
+    iso: 640 
+    datetime: 2018:09:21 16:23:17 
 - filename: japan-0002 
   original: japan-0002.JPG 
   thumbnail: japan-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 50 
+    iso: 500 
+    datetime: 2018:09:22 04:54:24 
 - filename: japan-0003 
   original: japan-0003.JPG 
   thumbnail: japan-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:09:22 06:27:57 
 - filename: japan-0004 
   original: japan-0004.JPG 
   thumbnail: japan-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 20 
+    iso: 100 
+    datetime: 2018:09:22 06:42:56 
 - filename: japan-0005 
   original: japan-0005.JPG 
   thumbnail: japan-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/50 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:22 06:53:50 
 - filename: japan-0006 
   original: japan-0006.JPG 
   thumbnail: japan-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 125 
+    datetime: 2018:09:22 06:54:24 
 - filename: japan-0007 
   original: japan-0007.JPG 
   thumbnail: japan-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 3200 
+    datetime: 2018:09:22 09:50:39 
 - filename: japan-0008 
   original: japan-0008.JPG 
   thumbnail: japan-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 4000 
+    datetime: 2018:09:22 09:53:47 
 - filename: japan-0009 
   original: japan-0009.JPG 
   thumbnail: japan-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 3200 
+    datetime: 2018:09:22 11:30:15 
 - filename: japan-0010 
   original: japan-0010.JPG 
   thumbnail: japan-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/250 
+    focal: 135 
+    iso: 3200 
+    datetime: 2018:09:22 11:57:28 
 - filename: japan-0011 
   original: japan-0011.JPG 
   thumbnail: japan-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/20 
+    focal: 18 
+    iso: 6400 
+    datetime: 2018:09:23 11:25:15 
 - filename: japan-0012 
   original: japan-0012.JPG 
   thumbnail: japan-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 1000 
+    datetime: 2018:09:23 11:50:48 
 - filename: japan-0013 
   original: japan-0013.JPG 
   thumbnail: japan-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 5000 
+    datetime: 2018:09:23 11:55:19 
 - filename: japan-0014 
   original: japan-0014.JPG 
   thumbnail: japan-0014-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:24 06:39:21 
 - filename: japan-0015 
   original: japan-0015.JPG 
   thumbnail: japan-0015-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 50 
+    iso: 100 
+    datetime: 2018:09:24 06:55:10 
 - filename: japan-0016 
   original: japan-0016.JPG 
   thumbnail: japan-0016-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 24 
+    iso: 100 
+    datetime: 2018:09:24 07:21:05 
 - filename: japan-0017 
   original: japan-0017.JPG 
   thumbnail: japan-0017-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:09:24 07:22:22 
 - filename: japan-0018 
   original: japan-0018.JPG 
   thumbnail: japan-0018-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/125 
+    focal: 22 
+    iso: 100 
+    datetime: 2018:09:24 07:52:05 
 - filename: japan-0019 
   original: japan-0019.JPG 
   thumbnail: japan-0019-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 85 
+    iso: 500 
+    datetime: 2018:09:24 10:59:24 
 - filename: japan-0020 
   original: japan-0020.JPG 
   thumbnail: japan-0020-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 800 
+    datetime: 2018:09:24 11:01:09 
 - filename: japan-0021 
   original: japan-0021.JPG 
   thumbnail: japan-0021-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 29 
+    iso: 640 
+    datetime: 2018:09:25 06:29:39 
 - filename: japan-0022 
   original: japan-0022.JPG 
   thumbnail: japan-0022-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 400 
+    datetime: 2018:09:25 06:30:35 
 - filename: japan-0023 
   original: japan-0023.JPG 
   thumbnail: japan-0023-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 500 
+    datetime: 2018:09:25 06:34:43 
 - filename: japan-0024 
   original: japan-0024.JPG 
   thumbnail: japan-0024-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 50 
+    iso: 800 
+    datetime: 2018:09:25 13:08:29 
 - filename: japan-0025 
   original: japan-0025.JPG 
   thumbnail: japan-0025-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 250 
+    datetime: 2018:09:26 08:22:11 
 - filename: japan-0026 
   original: japan-0026.JPG 
   thumbnail: japan-0026-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 1600 
+    datetime: 2018:09:26 08:28:18 
 - filename: japan-0027 
   original: japan-0027.JPG 
   thumbnail: japan-0027-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/50 
+    focal: 20 
+    iso: 125 
+    datetime: 2018:09:26 10:13:39 
 - filename: japan-0028 
   original: japan-0028.JPG 
   thumbnail: japan-0028-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 18 
+    iso: 125 
+    datetime: 2018:09:26 10:14:34 
 - filename: japan-0029 
   original: japan-0029.JPG 
   thumbnail: japan-0029-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 24 
+    iso: 5000 
+    datetime: 2018:09:26 11:18:43 
 - filename: japan-0030 
   original: japan-0030.JPG 
   thumbnail: japan-0030-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 19 
+    iso: 2500 
+    datetime: 2018:09:26 11:46:21 
 - filename: japan-0031 
   original: japan-0031.JPG 
   thumbnail: japan-0031-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:27 08:33:48 
 - filename: japan-0032 
   original: japan-0032.JPG 
   thumbnail: japan-0032-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:27 09:04:12 
 - filename: japan-0033 
   original: japan-0033.JPG 
   thumbnail: japan-0033-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/30 
+    focal: 24 
+    iso: 125 
+    datetime: 2018:09:27 10:15:31 
 - filename: japan-0034 
   original: japan-0034.JPG 
   thumbnail: japan-0034-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 125 
+    datetime: 2018:09:27 10:35:25 
 - filename: japan-0035 
   original: japan-0035.JPG 
   thumbnail: japan-0035-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 1000 
+    datetime: 2018:09:27 10:40:43 
 - filename: japan-0036 
   original: japan-0036.JPG 
   thumbnail: japan-0036-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 160 
+    datetime: 2018:09:27 10:42:38 
 - filename: japan-0037 
   original: japan-0037.JPG 
   thumbnail: japan-0037-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 320 
+    datetime: 2018:09:27 10:55:05 
 - filename: japan-0038 
   original: japan-0038.JPG 
   thumbnail: japan-0038-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 22 
+    iso: 6400 
+    datetime: 2018:09:27 11:57:24 
 - filename: japan-0039 
   original: japan-0039.JPG 
   thumbnail: japan-0039-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 5000 
+    datetime: 2018:09:27 12:07:57 
 - filename: japan-0040 
   original: japan-0040.JPG 
   thumbnail: japan-0040-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/15 
+    focal: 20 
+    iso: 6400 
+    datetime: 2018:09:27 12:10:15 
 - filename: japan-0041 
   original: japan-0041.JPG 
   thumbnail: japan-0041-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 19 
+    iso: 100 
+    datetime: 2018:09:28 03:15:41 
 - filename: japan-0042 
   original: japan-0042.JPG 
   thumbnail: japan-0042-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 640 
+    datetime: 2018:09:28 03:58:59 
 - filename: japan-0043 
   original: japan-0043.JPG 
   thumbnail: japan-0043-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:28 05:23:45 
 - filename: japan-0044 
   original: japan-0044.JPG 
   thumbnail: japan-0044-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 24 
+    iso: 100 
+    datetime: 2018:09:28 06:24:37 
 - filename: japan-0045 
   original: japan-0045.JPG 
   thumbnail: japan-0045-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/200 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:28 06:30:39 
 - filename: japan-0046 
   original: japan-0046.JPG 
   thumbnail: japan-0046-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 640 
+    datetime: 2018:09:28 09:10:32 
 - filename: japan-0047 
   original: japan-0047.JPG 
   thumbnail: japan-0047-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 50 
+    iso: 500 
+    datetime: 2018:09:28 10:51:12 
 - filename: japan-0048 
   original: japan-0048.JPG 
   thumbnail: japan-0048-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:09:28 10:53:28 
 - filename: japan-0049 
   original: japan-0049.JPG 
   thumbnail: japan-0049-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 50 
+    iso: 100 
+    datetime: 2018:09:28 10:56:06 
 - filename: japan-0050 
   original: japan-0050.JPG 
   thumbnail: japan-0050-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 24 
+    iso: 100 
+    datetime: 2018:09:28 11:00:02 
 - filename: japan-0051 
   original: japan-0051.JPG 
   thumbnail: japan-0051-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 27 
+    iso: 100 
+    datetime: 2018:09:29 09:24:18 
 - filename: japan-0052 
   original: japan-0052.JPG 
   thumbnail: japan-0052-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/30 
+    focal: 24 
+    iso: 160 
+    datetime: 2018:09:29 09:44:57 
 - filename: japan-0053 
   original: japan-0053.JPG 
   thumbnail: japan-0053-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/30 
+    focal: 18 
+    iso: 500 
+    datetime: 2018:09:29 10:02:41 
 - filename: japan-0054 
   original: japan-0054.JPG 
   thumbnail: japan-0054-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:10:01 05:26:39 
 - filename: japan-0055 
   original: japan-0055.JPG 
   thumbnail: japan-0055-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:01 05:32:16 
 - filename: japan-0056 
   original: japan-0056.JPG 
   thumbnail: japan-0056-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 42 
+    iso: 125 
+    datetime: 2018:10:01 05:33:15 
 - filename: japan-0057 
   original: japan-0057.JPG 
   thumbnail: japan-0057-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:10:01 05:35:59 
 - filename: japan-0058 
   original: japan-0058.JPG 
   thumbnail: japan-0058-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:01 05:36:36 
 - filename: japan-0059 
   original: japan-0059.JPG 
   thumbnail: japan-0059-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 62 
+    iso: 250 
+    datetime: 2018:10:01 06:32:26 
 - filename: japan-0060 
   original: japan-0060.JPG 
   thumbnail: japan-0060-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/30 
+    focal: 24 
+    iso: 125 
+    datetime: 2018:10:01 06:32:52 
 - filename: japan-0061 
   original: japan-0061.JPG 
   thumbnail: japan-0061-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 22 
+    iso: 160 
+    datetime: 2018:10:01 07:19:11 
 - filename: japan-0062 
   original: japan-0062.JPG 
   thumbnail: japan-0062-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/40 
+    focal: 20 
+    iso: 100 
+    datetime: 2018:10:01 07:22:52 
 - filename: japan-0063 
   original: japan-0063.JPG 
   thumbnail: japan-0063-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/200 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:10:01 08:06:52 
 - filename: japan-0064 
   original: japan-0064.JPG 
   thumbnail: japan-0064-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:01 08:09:20 
 - filename: japan-0065 
   original: japan-0065.JPG 
   thumbnail: japan-0065-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/320 
+    focal: 97 
+    iso: 100 
+    datetime: 2018:10:02 06:21:25 
 - filename: japan-0066 
   original: japan-0066.JPG 
   thumbnail: japan-0066-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/160 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:10:02 06:57:06 
 - filename: japan-0067 
   original: japan-0067.JPG 
   thumbnail: japan-0067-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/250 
+    focal: 27 
+    iso: 100 
+    datetime: 2018:10:02 08:19:04 
 - filename: japan-0068 
   original: japan-0068.JPG 
   thumbnail: japan-0068-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 20 
+    iso: 100 
+    datetime: 2018:10:02 09:30:02 
 - filename: japan-0069 
   original: japan-0069.JPG 
   thumbnail: japan-0069-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 85 
+    iso: 160 
+    datetime: 2018:10:02 10:00:32 
 - filename: japan-0070 
   original: japan-0070.JPG 
   thumbnail: japan-0070-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 29 
+    iso: 500 
+    datetime: 2018:10:03 11:38:57 
 - filename: japan-0071 
   original: japan-0071.JPG 
   thumbnail: japan-0071-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/40 
+    focal: 18 
+    iso: 6400 
+    datetime: 2018:10:03 11:51:39 
 - filename: japan-0072 
   original: japan-0072.JPG 
   thumbnail: japan-0072-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/5 
+    focal: 18 
+    iso: 6400 
+    datetime: 2018:10:03 12:56:19 
 - filename: japan-0073 
   original: japan-0073.JPG 
   thumbnail: japan-0073-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/160 
+    focal: 27 
+    iso: 100 
+    datetime: 2018:10:04 04:50:10 
 - filename: japan-0074 
   original: japan-0074.JPG 
   thumbnail: japan-0074-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/125 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:04 05:45:05 
 - filename: japan-0075 
   original: japan-0075.JPG 
   thumbnail: japan-0075-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:04 08:26:55 
 - filename: japan-0076 
   original: japan-0076.JPG 
   thumbnail: japan-0076-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/100 
+    focal: 24 
+    iso: 100 
+    datetime: 2018:10:04 08:28:40 
 - filename: japan-0077 
   original: japan-0077.JPG 
   thumbnail: japan-0077-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 69 
+    iso: 125 
+    datetime: 2018:10:05 06:36:55 
 - filename: japan-0078 
   original: japan-0078.JPG 
   thumbnail: japan-0078-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:05 06:44:01 
 - filename: japan-0079 
   original: japan-0079.JPG 
   thumbnail: japan-0079-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:05 06:46:05 
 - filename: japan-0080 
   original: japan-0080.JPG 
   thumbnail: japan-0080-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/160 
+    focal: 62 
+    iso: 100 
+    datetime: 2018:10:05 06:52:16 
 - filename: japan-0081 
   original: japan-0081.JPG 
   thumbnail: japan-0081-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/80 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:10:05 08:17:30 
 - filename: japan-0082 
   original: japan-0082.JPG 
   thumbnail: japan-0082-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 71 
+    iso: 320 
+    datetime: 2018:10:05 08:26:49 
 - filename: japan-0083 
   original: japan-0083.JPG 
   thumbnail: japan-0083-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/160 
+    focal: 20 
+    iso: 100 
+    datetime: 2018:10:05 08:41:54 
 - filename: japan-0084 
   original: japan-0084.JPG 
   thumbnail: japan-0084-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/250 
+    focal: 102 
+    iso: 100 
+    datetime: 2018:10:06 05:31:21 
 - filename: japan-0085 
   original: japan-0085.JPG 
   thumbnail: japan-0085-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:10:06 05:56:32 
 - filename: japan-0086 
   original: japan-0086.JPG 
   thumbnail: japan-0086-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/160 
+    focal: 22 
+    iso: 100 
+    datetime: 2018:10:06 05:58:28 
 - filename: japan-0087 
   original: japan-0087.JPG 
   thumbnail: japan-0087-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 3.5 
+    shutter: 1/8 
+    focal: 18 
+    iso: 6400 
+    datetime: 2018:10:06 06:23:26 
 - filename: japan-0088 
   original: japan-0088.JPG 
   thumbnail: japan-0088-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 29 
+    iso: 100 
+    datetime: 2018:10:06 06:33:58 
 - filename: japan-0089 
   original: japan-0089.JPG 
   thumbnail: japan-0089-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:10:06 06:41:07 
 - filename: japan-0090 
   original: japan-0090.JPG 
   thumbnail: japan-0090-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 640 
+    datetime: 2018:10:06 07:04:17 
 - filename: japan-0091 
   original: japan-0091.JPG 
   thumbnail: japan-0091-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/60 
+    focal: 27 
+    iso: 100 
+    datetime: 2018:10:06 07:05:33 
 - filename: japan-0092 
   original: japan-0092.JPG 
   thumbnail: japan-0092-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/60 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 07:09:03 
 - filename: japan-0093 
   original: japan-0093.JPG 
   thumbnail: japan-0093-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/60 
+    focal: 24 
+    iso: 100 
+    datetime: 2018:10:06 07:14:42 
 - filename: japan-0094 
   original: japan-0094.JPG 
   thumbnail: japan-0094-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 19 
+    iso: 100 
+    datetime: 2018:10:06 07:14:46 
 - filename: japan-0095 
   original: japan-0095.JPG 
   thumbnail: japan-0095-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 07:15:16 
 - filename: japan-0096 
   original: japan-0096.JPG 
   thumbnail: japan-0096-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/80 
+    focal: 50 
+    iso: 100 
+    datetime: 2018:10:06 07:15:46 
 - filename: japan-0097 
   original: japan-0097.JPG 
   thumbnail: japan-0097-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 07:16:27 
 - filename: japan-0098 
   original: japan-0098.JPG 
   thumbnail: japan-0098-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 35 
+    iso: 100 
+    datetime: 2018:10:06 07:19:10 
 - filename: japan-0099 
   original: japan-0099.JPG 
   thumbnail: japan-0099-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 22 
+    iso: 100 
+    datetime: 2018:10:06 07:30:21 
 - filename: japan-0100 
   original: japan-0100.JPG 
   thumbnail: japan-0100-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/100 
+    focal: 50 
+    iso: 100 
+    datetime: 2018:10:06 07:37:57 
 - filename: japan-0101 
   original: japan-0101.JPG 
   thumbnail: japan-0101-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/100 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 07:39:22 
 - filename: japan-0102 
   original: japan-0102.JPG 
   thumbnail: japan-0102-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/50 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 09:14:34 
 - filename: japan-0103 
   original: japan-0103.JPG 
   thumbnail: japan-0103-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/50 
+    focal: 18 
+    iso: 100 
+    datetime: 2018:10:06 09:21:51 
 - filename: japan-0104 
   original: japan-0104.JPG 
-  thumbnail: japan-0104-thumbnail.JPG   
+  thumbnail: japan-0104-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/160 
+    focal: 118 
+    iso: 400 
+    datetime: 2018:10:07 10:19:50 
