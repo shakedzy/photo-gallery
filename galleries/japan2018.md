@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: A Trip to Japan
-date: 21/09/2018-07/10/2018
+date: 21/09/2018 - 07/10/2018
 no_menu_item: true 
 support: [jquery, gallery]
 ---
