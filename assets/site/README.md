@@ -1,0 +1,1 @@
+Camera icon displayed as the favicon and in social-media banners by [Round Icons](https://roundicons.com).
