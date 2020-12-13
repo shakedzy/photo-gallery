@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Monochrome Jaffa
-date: 30/06/19
+date: 30/06/2019
 no_menu_item: true 
 support: [jquery, gallery]
 ---

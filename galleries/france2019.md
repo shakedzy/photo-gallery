@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Normandie et Bretagne
-date: April 2019
+date: 12-21/04/2019 
 no_menu_item: true 
 support: [jquery, gallery]
 ---
