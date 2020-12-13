@@ -5,3 +5,5 @@ I really like to photograph, but every time I do, I end asking myself the same q
 Which how I ended up creating my own gallery, just for myself. I don't know if anyone's ever going to visit these pages and see these photos, but it doesn't matter too much. This is my gallery, and now photos have a home.
 
 See it live at [shakedzy.xyz/photo-gallery](http://shakedzy.xyz/photo-gallery).
+
+[Read this](MAKE_YOUR_OWN.md) to learn how to make your own gallery using this code.
