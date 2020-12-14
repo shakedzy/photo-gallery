@@ -24,7 +24,7 @@ if __name__ == "__main__":
 	prefix = photos[0].split('-', 1)[0]
 
 	def get_gps_location(gps_info):
-		if len(gps_info.keys()) < 4:
+		if not isinstance(gps_info, dict) or len(gps_info.keys()) < 4:
 			return None
 		v = list()
 		for i in [2, 4]:
