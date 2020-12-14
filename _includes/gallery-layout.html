@@ -4,9 +4,9 @@
   <div class="image-wrapper">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}"
     data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image"
-    {% if picture.title or picture.caption or picture.exif %} 
+    {% if picture.title or picture.caption or picture.exif %} {% unless picture.exif.hide_exif %}
       data-sub-html="<div class='lg-toolbar caption'>{% if picture.title %}<h4>{{ picture.title | escape }}</h4>{% endif %}{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}{% if picture.exif %}<p style='font-style: italic;'> <i class='fa fa-camera' style='height: 1.2em; color: #888888;'></i>&nbsp;&nbsp;{{ picture.exif.model }} {% if picture.exif.lens %}// {{ picture.exif.lens }} {% endif %}<br><i class='fa fa-cogs' style='height: 1.2em; color: #888888;'></i>&nbsp;&nbsp;f/{{ picture.exif.aperture }}&nbsp;&nbsp;{{ picture.exif.shutter }}s&nbsp;&nbsp;{{ picture.exif.focal }}mm&nbsp;&nbsp;ISO {{ picture.exif.iso }}<br><i class='fa fa-calendar' style='height: 1.2em; color: #888888;'></i>&nbsp;&nbsp;{{ picture.exif.datetime }}</p>{% endif %}</div>"
-    {% endif %}>
+    {% endunless %}{% endif %}>
       <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </a>
   </div>

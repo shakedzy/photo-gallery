@@ -11,6 +11,7 @@ pictures:
     focal: 18 
     iso: 100 
     datetime: 2020:11:28 13:47:06 
+    hide_exif: true 
 - filename: egp-0002 
   original: egp-0002.JPG 
   thumbnail: egp-0002-thumbnail.JPG 
@@ -22,6 +23,7 @@ pictures:
     focal: 35 
     iso: 100 
     datetime: 2020:11:28 13:47:43 
+    hide_exif: true 
 - filename: egp-0003 
   original: egp-0003.JPG 
   thumbnail: egp-0003-thumbnail.JPG 
@@ -33,6 +35,7 @@ pictures:
     focal: 27 
     iso: 100 
     datetime: 2020:11:28 13:48:10 
+    hide_exif: true 
 - filename: egp-0004 
   original: egp-0004.JPG 
   thumbnail: egp-0004-thumbnail.JPG 
@@ -44,6 +47,7 @@ pictures:
     focal: 35 
     iso: 100 
     datetime: 2020:11:28 13:48:32 
+    hide_exif: true 
 - filename: egp-0005 
   original: egp-0005.JPG 
   thumbnail: egp-0005-thumbnail.JPG 
@@ -55,6 +59,7 @@ pictures:
     focal: 22 
     iso: 100 
     datetime: 2020:11:28 13:48:44 
+    hide_exif: true 
 - filename: egp-0006 
   original: egp-0006.JPG 
   thumbnail: egp-0006-thumbnail.JPG 
@@ -66,6 +71,7 @@ pictures:
     focal: 35 
     iso: 100 
     datetime: 2020:11:28 13:49:04 
+    hide_exif: true 
 - filename: egp-0007 
   original: egp-0007.JPG 
   thumbnail: egp-0007-thumbnail.JPG 
@@ -77,6 +83,7 @@ pictures:
     focal: 78 
     iso: 200 
     datetime: 2020:11:28 13:52:26 
+    hide_exif: true 
 - filename: egp-0008 
   original: egp-0008.JPG 
   thumbnail: egp-0008-thumbnail.JPG 
@@ -88,6 +95,7 @@ pictures:
     focal: 79 
     iso: 160 
     datetime: 2020:11:28 13:52:42 
+    hide_exif: true 
 - filename: egp-0009 
   original: egp-0009.JPG 
   thumbnail: egp-0009-thumbnail.JPG 
@@ -99,6 +107,7 @@ pictures:
     focal: 22 
     iso: 100 
     datetime: 2020:11:28 13:54:52 
+    hide_exif: true 
 - filename: egp-0010 
   original: egp-0010.JPG 
   thumbnail: egp-0010-thumbnail.JPG 
@@ -110,6 +119,7 @@ pictures:
     focal: 35 
     iso: 100 
     datetime: 2020:11:28 13:56:58 
+    hide_exif: true 
 - filename: egp-0011 
   original: egp-0011.JPG 
   thumbnail: egp-0011-thumbnail.JPG 
@@ -121,6 +131,7 @@ pictures:
     focal: 35 
     iso: 640 
     datetime: 2020:11:28 14:04:54 
+    hide_exif: true 
 - filename: egp-0012 
   original: egp-0012.JPG 
   thumbnail: egp-0012-thumbnail.JPG 
@@ -132,6 +143,7 @@ pictures:
     focal: 35 
     iso: 500 
     datetime: 2020:11:28 14:06:29 
+    hide_exif: true 
 - filename: egp-0013 
   original: egp-0013.JPG 
   thumbnail: egp-0013-thumbnail.JPG 
@@ -143,3 +155,4 @@ pictures:
     focal: 35 
     iso: 1600 
     datetime: 2020:11:28 14:07:52 
+    hide_exif: true 

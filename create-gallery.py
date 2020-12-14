@@ -15,6 +15,7 @@ if __name__ == "__main__":
 	parser.add_argument('-st', '--skip-thumbs', dest='skip_thumbnails', default=False, action='store_true', help="Don't create thumbnails (assume they already exist)")
 	parser.add_argument('-so', '--skip-overview', dest='skip_overview', default=False, action='store_true', help="Don't add gallery to overview.yml")
 	parser.add_argument('-sg', '--skip-gallery', dest='skip_gallery', default=False, action='store_true', help="Don't add gallery md file")
+	parser.add_argument('-he', '--hide-exif', dest='hide_exif', default=False, action='store_true', help="Do not show EXIF metadata")
 	args = parser.parse_args()
 
 	photos_path = os.getcwd() + "/assets/photography/" + args.gallery_name
@@ -51,16 +52,18 @@ if __name__ == "__main__":
 			im = Image.open(os.path.join(photos_path, f'{photo}.{args.suffix}'))
 			exif = dict()
 			exif_info = {ExifTags.TAGS[k]: v for k, v in im._getexif().items() if k in ExifTags.TAGS}
-			exif['model'] = exif_info.get('Model', '')
+			exif['model'] = exif_info.get('Model', '?')
 			exif['lens'] = exif_info.get('LensModel', None)
-			exif['aperture'] = str(exif_info['FNumber'][0] / exif_info['FNumber'][1]) if 'FNumber' in exif_info else ''
-			exif['shutter'] = f"{exif_info['ExposureTime'][0]}/{exif_info['ExposureTime'][1]}" if 'ExposureTime' in exif_info else ''
-			exif['focal'] = int(exif_info['FocalLength'][0] / exif_info['FocalLength'][1]) if 'FocalLength' in exif_info else ''
-			exif['iso'] = exif_info.get('ISOSpeedRatings', '')
-			exif['datetime'] = exif_info.get('DateTime', '')
+			exif['aperture'] = str(exif_info['FNumber'][0] / exif_info['FNumber'][1]) if 'FNumber' in exif_info else '?'
+			exif['shutter'] = f"{exif_info['ExposureTime'][0]}/{exif_info['ExposureTime'][1]}" if 'ExposureTime' in exif_info else '?'
+			exif['focal'] = int(exif_info['FocalLength'][0] / exif_info['FocalLength'][1]) if 'FocalLength' in exif_info else '?'
+			exif['iso'] = exif_info.get('ISOSpeedRatings', '?')
+			exif['datetime'] = exif_info.get('DateTime', '?')
 			for k,v in exif.items():
 				if v is not None:
 					f.write(f'    {k}: {v} \n')
+			if args.hide_exif:
+				f.write(f'    hide_exif: true \n')
 			if exif['datetime']:
 				dt = datetime.strptime(exif['datetime'], '%Y:%m:%d %H:%M:%S').date()
 				if min_date is None: min_date = dt
