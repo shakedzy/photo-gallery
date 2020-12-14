@@ -18,6 +18,16 @@ html {
   overflow-y: scroll;
 }
 
+a.gps-link {
+  color: #AAA;
+}
+a.gps-link:hover {
+  color: #AAA;
+}
+a.gps-link:visited {
+  color: #AAA;
+}
+
 .image-wrapper,
 .gallery-sizer {
   width: $default-width;

@@ -23,6 +23,15 @@ if __name__ == "__main__":
 	num_of_photos = len(photos)
 	prefix = photos[0].split('-', 1)[0]
 
+	def get_gps_location(gps_info):
+		if len(gps_info.keys()) < 4:
+			return None
+		v = list()
+		for i in [2, 4]:
+			v.append(f'{str(gps_info[i][0][0] // gps_info[i][0][1]).zfill(2)}°{str(gps_info[i][1][0] // gps_info[i][1][1]).zfill(2)}\'{str(round(gps_info[i][2][0] / gps_info[i][2][1], 1)).zfill(4)}"{gps_info[i - 1]}')
+		return ','.join(v)
+
+
 	def get_image_name_from_id(n):
 		return f'{prefix}-{str(n).zfill(args.zfill)}'
 
@@ -59,6 +68,7 @@ if __name__ == "__main__":
 			exif['focal'] = int(exif_info['FocalLength'][0] / exif_info['FocalLength'][1]) if 'FocalLength' in exif_info else '?'
 			exif['iso'] = exif_info.get('ISOSpeedRatings', '?')
 			exif['datetime'] = exif_info.get('DateTime', '?')
+			exif['gps'] = get_gps_location(exif_info.get('GPSInfo', dict()))
 			for k,v in exif.items():
 				if v is not None:
 					f.write(f'    {k}: {v} \n')

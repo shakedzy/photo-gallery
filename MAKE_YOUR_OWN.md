@@ -43,7 +43,7 @@ There are more available configurations, run `python3 create-gallery.py --help` 
 This script creates everything for you, including thumbnails of all your photos. These are located at the same directory as your gallery photos, and are named `[prefix]-[id]-thumbnail.[suffix]`. And that's pretty much it, your new gallery is ready.
 
 ### EXIF metadata
-The script also adds certain EXIF metadata from the photos (if available), which includes: camera model and lens, aperture and shutter settings, ISO definition, focal length and date-time. This data is displayed when a photo is viewd, along with `title` and `caption` (see below). If you'd like EXIF data to be hidden, add the `--hide-exif` flag when running the script.
+The script also adds certain EXIF metadata from the photos (if available), which includes: camera model and lens, aperture and shutter settings, ISO definition, focal length, date-time and GPS location (a link to Google Maps will also be added). This data is displayed when a photo is viewd, along with `title` and `caption` (see below). If you'd like EXIF data to be hidden, add the `--hide-exif` flag when running the script.
 
 ## Adding your words
 
