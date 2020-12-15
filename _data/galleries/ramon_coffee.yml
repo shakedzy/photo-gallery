@@ -110,3 +110,25 @@ pictures:
     focal: 56 
     iso: 100 
     datetime: 2018:12:15 15:30:59 
+- filename: ramon-0011 
+  original: ramon-0011.JPG 
+  thumbnail: ramon-0011-thumbnail.JPG 
+  exif: 
+    model: Mi A1 
+    aperture: 2.0 
+    shutter: 1/1054 
+    focal: 2 
+    iso: 101 
+    datetime: 2018:12:15 13:12:49 
+    gps: 30°36'08.3"N,34°47'43.0"E 
+- filename: ramon-0012 
+  original: ramon-0012.JPG 
+  thumbnail: ramon-0012-thumbnail.JPG 
+  exif: 
+    model: Mi A1 
+    aperture: 2.2 
+    shutter: 1/1114 
+    focal: 3 
+    iso: 100 
+    datetime: 2018:12:15 14:35:51 
+    gps: 30°36'08.2"N,34°47'42.9"E 
