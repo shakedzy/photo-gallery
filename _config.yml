@@ -19,8 +19,8 @@ twitter_username: "@shakedzy"
 social_banner: 
   image: "/assets/site/social_banner.jpg"
   type: "image/jpeg"
-  height: 1000
-  width: 1500
+  height: 400
+  width: 600
 
 # Build settings
 include: ["_pages"]
