@@ -18,9 +18,9 @@
     {% assign g = name_split[0] %}
     {% for gallery in site.data.galleries.overview %}
         {% if gallery.directory == g %}
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.original }}">
-<meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.original }}" />
-<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.original }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.thumbnail }}">
+<meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.thumbnail }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ g }}/{{ gallery.preview.thumbnail }}">
         {% endif %}
     {% endfor %}
 {% else %}
