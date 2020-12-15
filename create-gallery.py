@@ -40,10 +40,11 @@ if __name__ == "__main__":
 
 	if not args.skip_thumbnails:
 		th_width, th_height = [int(i) for i in args.thumbnail_size.split(',')]
-		for photo in photos:
+		for file_name in photos:
+			photo = file_name[:-(len(args.suffix)+1)]
 			thumbnail_size = (th_width, th_width) if th_width > th_height else (th_height, th_height)
 			thumbnail_filename = get_image_thumbnail_name(photo)
-			im = Image.open(os.path.join(photos_path, photo))
+			im = Image.open(os.path.join(photos_path, file_name))
 			im.thumbnail(thumbnail_size, Image.ANTIALIAS)
 			im.save(os.path.join(photos_path, thumbnail_filename))
 
