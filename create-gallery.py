@@ -31,6 +31,11 @@ if __name__ == "__main__":
 			v.append(f'{str(gps_info[i][0][0] // gps_info[i][0][1]).zfill(2)}°{str(gps_info[i][1][0] // gps_info[i][1][1]).zfill(2)}\'{str(round(gps_info[i][2][0] / gps_info[i][2][1], 1)).zfill(4)}"{gps_info[i - 1]}')
 		return ','.join(v)
 
+	def get_shutter_speed(exposure_time_tuple):
+		if exposure_time_tuple[1] == 1:
+			return str(exposure_time_tuple[0])
+		else:
+			return f"{exposure_time_tuple[0]}/{exposure_time_tuple[1]}"
 
 	def get_image_name_from_id(n):
 		return f'{prefix}-{str(n).zfill(args.zfill)}'
@@ -65,7 +70,7 @@ if __name__ == "__main__":
 			exif['model'] = exif_info.get('Model', '?')
 			exif['lens'] = exif_info.get('LensModel', None)
 			exif['aperture'] = str(exif_info['FNumber'][0] / exif_info['FNumber'][1]) if 'FNumber' in exif_info else '?'
-			exif['shutter'] = f"{exif_info['ExposureTime'][0]}/{exif_info['ExposureTime'][1]}" if 'ExposureTime' in exif_info else '?'
+			exif['shutter'] = get_shutter_speed(exif_info['ExposureTime']) if 'ExposureTime' in exif_info else '?'
 			exif['focal'] = int(exif_info['FocalLength'][0] / exif_info['FocalLength'][1]) if 'FocalLength' in exif_info else '?'
 			exif['iso'] = exif_info.get('ISOSpeedRatings', '?')
 			exif['datetime'] = exif_info.get('DateTime', '?')
