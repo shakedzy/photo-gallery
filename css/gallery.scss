@@ -5,9 +5,9 @@ $default-width: 33%;
 $default-width-mobile: 100%;
 $default-width-tablet: 50%;
 $maximal-width: 400px;
-$max-gallery-width: 1200px;
+$max-content-width: 1200px;
 
-* {
+*:not(.wrapper) {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -37,7 +37,7 @@ a.gps-link:visited {
 .image-gallery {
 
   display: block;
-  max-width: $max-gallery-width;
+  max-width: $max-content-width;
   margin: auto;
   margin-top: 50px;
 
