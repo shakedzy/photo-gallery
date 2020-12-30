@@ -125,4 +125,7 @@ if __name__ == "__main__":
 			f.write('no_menu_item: true \n') 
 			f.write('support: [jquery, gallery] \n')
 			f.write('--- \n\n\n')
+			f.write('<div class="hebrew-col" markdown="1">\n\n\n\n</div>\n\n')
+			f.write('<div class="english-col" markdown="1">\n\n\n\n</div>\n\n')
+			f.write('<div class="end-lang-cols"></div>\n')
 			f.write('{% include gallery-layout.html gallery=site.data.galleries.' + args.gallery_name + ' %} \n')

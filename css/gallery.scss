@@ -1,7 +1,7 @@
 ---
 ---
 
-$default-width: 33%;
+$default-width: 33.333333%;
 $default-width-mobile: 100%;
 $default-width-tablet: 50%;
 $maximal-width: 400px;
@@ -39,7 +39,7 @@ a.gps-link:visited {
   display: block;
   max-width: $max-content-width;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 20px;
 
   .image-wrapper {
     float: left;
