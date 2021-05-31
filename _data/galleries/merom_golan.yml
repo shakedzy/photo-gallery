@@ -1,0 +1,220 @@
+picture_path: merom_golan 
+pictures: 
+- filename: mg-0001 
+  original: mg-0001.JPG 
+  thumbnail: mg-0001.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 2.4 
+    shutter: 1/134 
+    focal: 4 
+    iso: 50 
+    datetime: 2021:04:29 17:35:49 
+    gps: 33°07'50.7"N,35°46'44.5"E 
+- filename: mg-0002 
+  original: mg-0002.JPG 
+  thumbnail: mg-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S10-18mm f/4.5-5.6 IS STM 
+    aperture: 4.5 
+    shutter: 1/8 
+    focal: 10 
+    iso: 100 
+    datetime: 2021:04:30 07:44:11 
+- filename: mg-0003 
+  original: mg-0003.JPG 
+  thumbnail: mg-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S10-18mm f/4.5-5.6 IS STM 
+    aperture: 10.0 
+    shutter: 1/160 
+    focal: 11 
+    iso: 100 
+    datetime: 2021:04:30 11:57:23 
+    gps: 33°05'03.4"N,35°45'40.8"E 
+- filename: mg-0004 
+  original: mg-0004.JPG 
+  thumbnail: mg-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 8.0 
+    shutter: 1/400 
+    focal: 135 
+    iso: 100 
+    datetime: 2021:04:30 12:15:24 
+    gps: 33°05'03.2"N,35°45'43.0"E 
+- filename: mg-0005 
+  original: mg-0005.JPG 
+  thumbnail: mg-0005.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 2.4 
+    shutter: 1/50 
+    focal: 4 
+    iso: 64 
+    datetime: 2021:04:30 18:43:19 
+- filename: mg-0006 
+  original: mg-0006.JPG 
+  thumbnail: mg-0006.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 2.4 
+    shutter: 1/100 
+    focal: 4 
+    iso: 125 
+    datetime: 2021:04:30 18:48:23 
+- filename: mg-0007 
+  original: mg-0007.JPG 
+  thumbnail: mg-0007.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 1.5 
+    shutter: 1/33 
+    focal: 4 
+    iso: 320 
+    datetime: 2021:04:30 19:42:53 
+    gps: 33°07'51.4"N,35°46'45.3"E 
+- filename: mg-0008 
+  original: mg-0008.JPG 
+  thumbnail: mg-0008.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 1.7 
+    shutter: 1/25 
+    focal: 2 
+    iso: 320 
+    datetime: 2021:04:30 19:44:05 
+    gps: 33°07'51.7"N,35°46'44.9"E 
+- filename: mg-0009 
+  original: mg-0009.JPG 
+  thumbnail: mg-0009.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 1.7 
+    shutter: 1/50 
+    focal: 2 
+    iso: 100 
+    datetime: 2021:05:01 08:18:07 
+    gps: 33°07'57.0"N,35°46'38.7"E 
+- filename: mg-0010 
+  original: mg-0010.JPG 
+  thumbnail: mg-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S10-18mm f/4.5-5.6 IS STM 
+    aperture: 11.0 
+    shutter: 1/200 
+    focal: 10 
+    iso: 100 
+    datetime: 2021:05:01 09:26:33 
+    gps: 33°12'23.8"N,35°44'05.9"E 
+- filename: mg-0011 
+  original: mg-0011.JPG 
+  thumbnail: mg-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/15 
+    focal: 132 
+    iso: 100 
+    datetime: 2021:05:01 09:38:42 
+    gps: 33°12'27.3"N,35°44'05.6"E 
+- filename: mg-0012 
+  original: mg-0012.JPG 
+  thumbnail: mg-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 29.0 
+    shutter: 1/15 
+    focal: 35 
+    iso: 100 
+    datetime: 2021:05:01 11:06:22 
+    gps: 33°10'04.7"N,35°46'28.8"E 
+- filename: mg-0013 
+  original: mg-0013.JPG 
+  thumbnail: mg-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 32.0 
+    shutter: 1/15 
+    focal: 72 
+    iso: 100 
+    datetime: 2021:05:01 11:11:20 
+    gps: 33°10'04.7"N,35°46'28.7"E 
+- filename: mg-0014 
+  original: mg-0014.JPG 
+  thumbnail: mg-0014-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 32.0 
+    shutter: 1/15 
+    focal: 91 
+    iso: 100 
+    datetime: 2021:05:01 11:21:10 
+    gps: 33°08'26.5"N,35°46'39.5"E 
+- filename: mg-0015 
+  original: mg-0015.JPG 
+  thumbnail: mg-0015-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 25.0 
+    shutter: 1/15 
+    focal: 29 
+    iso: 100 
+    datetime: 2021:05:01 11:23:30 
+    gps: 33°08'26.1"N,35°46'41.9"E 
+- filename: mg-0016 
+  original: mg-0016.JPG 
+  thumbnail: mg-0016-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 29.0 
+    shutter: 1/15 
+    focal: 35 
+    iso: 100 
+    datetime: 2021:05:01 11:23:50 
+    gps: 33°08'26.0"N,35°46'41.8"E 
+- filename: mg-0017 
+  original: mg-0017.JPG 
+  thumbnail: mg-0017-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S10-18mm f/4.5-5.6 IS STM 
+    aperture: 22.0 
+    shutter: 1/15 
+    focal: 10 
+    iso: 100 
+    datetime: 2021:05:01 11:25:17 
+    gps: 33°08'25.9"N,35°46'41.9"E 
+- filename: mg-0018 
+  original: mg-0018.JPG 
+  thumbnail: mg-0018-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S24mm f/2.8 STM 
+    aperture: 22.0 
+    shutter: 1/15 
+    focal: 24 
+    iso: 100 
+    datetime: 2021:05:01 11:31:50 
+    gps: 33°08'26.5"N,35°46'39.6"E 
+- filename: mg-0019 
+  original: mg-0019.JPG 
+  thumbnail: mg-0019.JPG 
+  exif: 
+    model: SM-G960F 
+    aperture: 2.4 
+    shutter: 1/670 
+    focal: 4 
+    iso: 50 
+    datetime: 2021:05:01 09:10:01 
+    gps: 33°07'55.1"N,35°46'44.5"E 

@@ -11,15 +11,15 @@ Obviously, the first thing you'll need to do is fork this repository. Once done,
 * `galleries/*`
 * `_data/galleries/*`
 
-Next, you'll want to edit the `_config.yml` and adjust the parameters under _Site settings_. Also, you'll probably want to replace the social banner image (found by under `assets/site/`), simply as it bears my name in it :). Make sure it has the same format of your photos (`jpeg` in my case), and adjust the relavant attributes in `_config.yml` under `social_banner`.
+Next, you'll want to edit the `_config.yml` and adjust the parameters under _Site settings_. Also, you'll probably want to replace the social banner image (found by under `assets/site/`), simply as it bears my name in it :). Make sure it has the same format of your photos (`jpeg` in my case), and adjust the relevant attributes in `_config.yml` under `social_banner`.
 
 ## Creating a gallery
-Create a new directory under `assets/photography/`, and export all gallery's photos to it. Note that file names are expecteed to follow a pattern:
+Create a new directory under `assets/photography/`, and export all gallery's photos to it. Note that file names are expected to follow a pattern:
 ```
 [prefix]-[id].[suffix]
 ```
 
-* `prefix` and `suffix` are exppected to be the same for all photos of the same gallery. `prefix` cannot contain hyphens (`-`)
+* `prefix` and `suffix` are expected to be the same for all photos of the same gallery. `prefix` cannot contain hyphens (`-`)
 * `id`s are consecutive ascending numbers, beginning with 1. Leading zeros are allowed, as long as it remains consistent (`0001, 0002, ..., 0131, ...`)
 
 now run the `create-gallery.py` script found in repository's root. It required Python 3.x and a few requirements (`pip3 install argparse Pillow`). Run the script with the following arguments:
