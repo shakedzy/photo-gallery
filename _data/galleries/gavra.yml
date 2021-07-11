@@ -1,0 +1,251 @@
+picture_path: gavra 
+pictures: 
+- filename: gavra-0001 
+  original: gavra-0001.JPG 
+  thumbnail: gavra-0001-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/13 
+    focal: 62 
+    iso: 100 
+    datetime: 2021:05:30 16:23:02 
+    gps: 32.21861166666667,34.818198333333335 
+- filename: gavra-0002 
+  original: gavra-0002.JPG 
+  thumbnail: gavra-0002-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/60 
+    focal: 22 
+    iso: 100 
+    datetime: 2021:05:30 17:46:11 
+    gps: 32.21953333333333,34.818418333333334 
+- filename: gavra-0003 
+  original: gavra-0003.JPG 
+  thumbnail: gavra-0003-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/125 
+    focal: 24 
+    iso: 100 
+    datetime: 2021:05:30 18:22:33 
+    gps: 32.217985,34.815755 
+- filename: gavra-0004 
+  original: gavra-0004.JPG 
+  thumbnail: gavra-0004-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.0 
+    shutter: 1/160 
+    focal: 24 
+    iso: 100 
+    datetime: 2021:05:30 18:27:42 
+    gps: 32.21794833333333,34.81569666666667 
+- filename: gavra-0005 
+  original: gavra-0005.JPG 
+  thumbnail: gavra-0005-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/25 
+    focal: 35 
+    iso: 100 
+    datetime: 2021:06:11 06:42:56 
+- filename: gavra-0006 
+  original: gavra-0006.JPG 
+  thumbnail: gavra-0006-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 10.0 
+    shutter: 1/160 
+    focal: 18 
+    iso: 400 
+    datetime: 2021:06:11 09:18:37 
+    gps: 32.05959166666667,34.772623333333335 
+- filename: gavra-0007 
+  original: gavra-0007.JPG 
+  thumbnail: gavra-0007-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 20.0 
+    shutter: 6/10 
+    focal: 19 
+    iso: 400 
+    datetime: 2021:06:11 09:43:37 
+    gps: 32.059628333333336,34.77218166666667 
+- filename: gavra-0008 
+  original: gavra-0008.JPG 
+  thumbnail: gavra-0008-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.0 
+    shutter: 1/15 
+    focal: 24 
+    iso: 100 
+    datetime: 2021:07:11 01:40:51 
+- filename: gavra-0009 
+  original: gavra-0009.JPG 
+  thumbnail: gavra-0009-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 4.5 
+    shutter: 1/13 
+    focal: 29 
+    iso: 100 
+    datetime: 2021:07:11 01:40:49 
+- filename: gavra-0010 
+  original: gavra-0010.JPG 
+  thumbnail: gavra-0010-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/200 
+    focal: 124 
+    iso: 2500 
+    datetime: 2021:07:11 02:14:42 
+    gps: 32.09827666666666,34.80622666666667 
+- filename: gavra-0011 
+  original: gavra-0011.JPG 
+  thumbnail: gavra-0011-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/500 
+    focal: 135 
+    iso: 2500 
+    datetime: 2021:07:11 02:14:42 
+    gps: 32.09817,34.806735 
+- filename: gavra-0012 
+  original: gavra-0012.JPG 
+  thumbnail: gavra-0012-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 6.3 
+    shutter: 1/500 
+    focal: 135 
+    iso: 800 
+    datetime: 2021:07:11 02:14:41 
+    gps: 32.09823333333333,34.80663333333333 
+- filename: gavra-0013 
+  original: gavra-0013.JPG 
+  thumbnail: gavra-0013-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/500 
+    focal: 135 
+    iso: 1600 
+    datetime: 2021:07:11 02:14:47 
+    gps: 32.098031666666664,34.80659833333333 
+- filename: gavra-0014 
+  original: gavra-0014.JPG 
+  thumbnail: gavra-0014-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/500 
+    focal: 74 
+    iso: 1250 
+    datetime: 2021:07:11 02:14:48 
+    gps: 32.098115,34.80645666666667 
+- filename: gavra-0015 
+  original: gavra-0015.JPG 
+  thumbnail: gavra-0015-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 11.0 
+    shutter: 1/400 
+    focal: 128 
+    iso: 6400 
+    datetime: 2021:07:11 02:14:50 
+    gps: 32.098303333333334,34.80647333333334 
+- filename: gavra-0016 
+  original: gavra-0016.JPG 
+  thumbnail: gavra-0016-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/400 
+    focal: 135 
+    iso: 800 
+    datetime: 2021:07:11 02:14:50 
+    gps: 32.09809833333333,34.80629666666667 
+- filename: gavra-0017 
+  original: gavra-0017.JPG 
+  thumbnail: gavra-0017-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 7.1 
+    shutter: 1/640 
+    focal: 135 
+    iso: 1600 
+    datetime: 2021:07:11 02:14:52 
+    gps: 32.09759833333333,34.80629 
+- filename: gavra-0018 
+  original: gavra-0018.JPG 
+  thumbnail: gavra-0018-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 1600 
+    datetime: 2021:07:11 02:14:53 
+    gps: 32.095076666666664,34.80533 
+- filename: gavra-0019 
+  original: gavra-0019.JPG 
+  thumbnail: gavra-0019-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 135 
+    iso: 1600 
+    datetime: 2021:07:11 02:14:54 
+    gps: 32.095056666666665,34.80526833333333 
+- filename: gavra-0020 
+  original: gavra-0020.JPG 
+  thumbnail: gavra-0020-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 5.6 
+    shutter: 1/200 
+    focal: 132 
+    iso: 125 
+    datetime: 2021:07:11 02:14:54 
+    gps: 32.09507166666667,34.805211666666665 
+- filename: gavra-0021 
+  original: gavra-0021.JPG 
+  thumbnail: gavra-0021-thumbnail.JPG 
+  exif: 
+    model: Canon EOS 77D 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    aperture: 9.0 
+    shutter: 1/50 
+    focal: 56 
+    iso: 100 
+    datetime: 2021:07:11 02:14:57 
+    gps: 32.09506833333333,34.805146666666666 
