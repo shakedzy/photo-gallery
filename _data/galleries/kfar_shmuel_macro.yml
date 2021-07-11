@@ -16,7 +16,7 @@ pictures:
   thumbnail: kfar_shmuel-0002-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.0 
     shutter: 1/100 
     focal: 71 
@@ -27,7 +27,7 @@ pictures:
   thumbnail: kfar_shmuel-0003-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.0 
     shutter: 1/100 
     focal: 71 
@@ -38,7 +38,7 @@ pictures:
   thumbnail: kfar_shmuel-0004-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.0 
     shutter: 1/125 
     focal: 71 
@@ -49,7 +49,7 @@ pictures:
   thumbnail: kfar_shmuel-0005-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.6 
     shutter: 1/160 
     focal: 85 
@@ -60,7 +60,7 @@ pictures:
   thumbnail: kfar_shmuel-0006-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.6 
     shutter: 1/125 
     focal: 85 
@@ -71,7 +71,7 @@ pictures:
   thumbnail: kfar_shmuel-0007-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.6 
     shutter: 1/125 
     focal: 85 
@@ -82,7 +82,7 @@ pictures:
   thumbnail: kfar_shmuel-0008-thumbnail.JPG 
   exif: 
     model: Canon EOS 77D 
-    lens: EF-S18-135mm f/3.5-5.6 IS USM 
+    lens: EF-S18-135mm f/3.5-5.6 IS USM + Canon EF 25 II Extension Tube
     aperture: 5.6 
     shutter: 1/125 
     focal: 85 
