@@ -2,6 +2,7 @@ import os
 import argparse
 from PIL import Image, ExifTags
 from datetime import datetime
+from GPSPhoto import gpsphoto
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
@@ -10,7 +11,7 @@ if __name__ == "__main__":
 	parser.add_argument('-t', '--title', dest='title', help='Gallery title')
 	parser.add_argument('-d', '--date', dest='date', help='Gallery shooting date')
 	parser.add_argument('-z', '--zfill', dest='zfill', default=4, help='Number of total figures in files names')
-	parser.add_argument('-x', '--suffix', dest='suffix', default="JPG", help="Files suffix")
+	parser.add_argument('-x', '--suffix', dest='suffix', default="jpg", help="Files suffix")
 	parser.add_argument('-ts', '--thumbnail-size', dest='thumbnail_size', default='600,400', help="Width and height of thumbnails")
 	parser.add_argument('-st', '--skip-thumbs', dest='skip_thumbnails', default=False, action='store_true', help="Don't create thumbnails (assume they already exist)")
 	parser.add_argument('-so', '--skip-overview', dest='skip_overview', default=False, action='store_true', help="Don't add gallery to overview.yml")
@@ -23,13 +24,12 @@ if __name__ == "__main__":
 	num_of_photos = len(photos)
 	prefix = photos[0].split('-', 1)[0]
 
-	def get_gps_location(gps_info):
-		if not isinstance(gps_info, dict) or len(gps_info.keys()) < 4:
+	def get_gps_location(filename):
+		gps = gpsphoto.getGPSData(filename)
+		if all(k in gps.keys() for k in ['Latitude', 'Longitude']):
+			return f"{gps['Latitude']},{gps['Longitude']}"
+		else:
 			return None
-		v = list()
-		for i in [2, 4]:
-			v.append(f'{str(gps_info[i][0][0] // gps_info[i][0][1]).zfill(2)}°{str(gps_info[i][1][0] // gps_info[i][1][1]).zfill(2)}\'{str(round(gps_info[i][2][0] / gps_info[i][2][1], 1)).zfill(4)}"{gps_info[i - 1]}')
-		return ','.join(v)
 
 	def get_shutter_speed(exposure_time_tuple):
 		if exposure_time_tuple[1] == 1:
@@ -60,11 +60,12 @@ if __name__ == "__main__":
 		f.write('pictures: \n')
 		for i in range(1, num_of_photos+1):
 			photo = get_image_name_from_id(i)
+			photo_path = os.path.join(photos_path, f'{photo}.{args.suffix}')
 			f.write(f'- filename: {photo} \n')
 			f.write(f'  original: {photo}.{args.suffix} \n')
 			f.write(f'  thumbnail: {get_image_thumbnail_name(photo)} \n')
 			f.write('  exif: \n')
-			im = Image.open(os.path.join(photos_path, f'{photo}.{args.suffix}'))
+			im = Image.open(photo_path)
 			exif = dict()
 			exif_info = {ExifTags.TAGS[k]: v for k, v in im._getexif().items() if k in ExifTags.TAGS}
 			exif['model'] = exif_info.get('Model', '?')
@@ -74,7 +75,7 @@ if __name__ == "__main__":
 			exif['focal'] = int(exif_info['FocalLength'][0] / exif_info['FocalLength'][1]) if 'FocalLength' in exif_info else '?'
 			exif['iso'] = exif_info.get('ISOSpeedRatings', '?')
 			exif['datetime'] = exif_info.get('DateTime', '?')
-			exif['gps'] = get_gps_location(exif_info.get('GPSInfo', dict()))
+			exif['gps'] = get_gps_location(photo_path)
 			for k,v in exif.items():
 				if v is not None:
 					f.write(f'    {k}: {v} \n')

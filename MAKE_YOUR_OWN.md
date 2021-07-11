@@ -22,7 +22,11 @@ Create a new directory under `assets/photography/`, and export all gallery's pho
 * `prefix` and `suffix` are expected to be the same for all photos of the same gallery. `prefix` cannot contain hyphens (`-`)
 * `id`s are consecutive ascending numbers, beginning with 1. Leading zeros are allowed, as long as it remains consistent (`0001, 0002, ..., 0131, ...`)
 
-now run the `create-gallery.py` script found in repository's root. It required Python 3.x and a few requirements (`pip3 install argparse Pillow`). Run the script with the following arguments:
+You can now run the `create-gallery.py` script found in repository's root. It requires Python 3.x and a few requirements: 
+```
+pip3 install argparse Pillow piexif exifread gpsphoto
+```
+Once installed, you can run the script with the following arguments:
 ```
 python3 create-gallery.py -n [gallery_name]
 ```
